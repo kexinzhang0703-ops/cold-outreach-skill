@@ -102,7 +102,7 @@ This skill comes with comprehensive reference guides:
 - **`coffee-chat-guide.md`**: Complete SOP for informational interviews
 - **`recruiter-strategy.md`**: How to find and approach recruiters
 
-## 🎨 Message Examples
+##  Message Examples
 
 ### LinkedIn Message (Alumni)
 ```
@@ -155,7 +155,7 @@ Best,
 2. Reference the skill documentation when needed
 3. Follow the workflow specified in the skill file
 
-## 📖 Documentation
+##  Documentation
 
 - **[SKILL.md](SKILL.md)**: Complete skill instructions and workflow
 - **[references/templates.md](references/templates.md)**: All message templates
@@ -176,7 +176,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This skill was developed by synthesizing best practices from:
 - Multiple social media cold outreach templates
@@ -184,7 +184,7 @@ This skill was developed by synthesizing best practices from:
 - Professional networking experts
 - LinkedIn message optimization research
 
-## ⚠️ Best Practices
+##  Best Practices
 
 **DO:**
 - Upload your updated resume for best results
@@ -208,7 +208,7 @@ This skill is optimized for:
 - **Consistency**: Maintain professional tone across all messages
 - **Relevance**: Resume-based matching ensures you highlight the right experience
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 Planned features:
 - [ ] Multi-language support (Mandarin, Spanish, etc.)
@@ -217,7 +217,7 @@ Planned features:
 - [ ] Response analysis and optimization
 - [ ] Integration with LinkedIn API
 
-## 📬 Contact
+##  Contact
 
 If you have questions or feedback about this skill, please open an issue on GitHub.
 
