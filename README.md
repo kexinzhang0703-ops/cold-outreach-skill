@@ -2,7 +2,7 @@
 
 A professional networking and job search outreach system designed as a custom skill for Claude AI. This skill is trained on multiple cold outreach email templates and real-world examples from social media, optimized for both LinkedIn messages (300 characters) and longer email formats.
 
-## 🎯 What This Skill Does
+## What This Skill Does
 
 This skill helps you craft professional, effective outreach messages for:
 
@@ -12,7 +12,7 @@ This skill helps you craft professional, effective outreach messages for:
 - **Coffee Chat Coordination**: From initial request to follow-up
 - **Follow-up Messages**: Post-meeting relationship maintenance
 
-## ✨ Key Features
+## Key Features
 
 - **Resume-Based Personalization**: Upload your resume once, get tailored messages for every outreach
 - **Smart Relationship Detection**: Automatically adapts opening based on your connection (alumni, colleague, or no relationship)
@@ -24,7 +24,7 @@ This skill helps you craft professional, effective outreach messages for:
   - If no connection → Expresses interest in their company/role
 - **Comprehensive Templates**: Covers all major networking scenarios
 
-## 🚀 How to Use
+## How to Use
 
 ### First-Time Setup
 
@@ -79,7 +79,7 @@ Output: Message expressing genuine interest in DeepMind's AI work
 and connecting your background to their research area
 ```
 
-## 📋 What Makes This Different
+## What Makes This Different
 
 ### Traditional Cold Email
 - Generic templates
@@ -94,7 +94,7 @@ and connecting your background to their research area
 - Company/role-specific interest
 - Format-optimized (LinkedIn vs Email)
 
-## 📚 Included Resources
+## Included Resources
 
 This skill comes with comprehensive reference guides:
 
@@ -137,7 +137,7 @@ Best,
 [Your name]
 ```
 
-## 🔧 Installation
+## Installation
 
 ### For Claude.ai Users
 
@@ -162,7 +162,7 @@ Best,
 - **[references/coffee-chat-guide.md](references/coffee-chat-guide.md)**: Coffee chat SOP
 - **[references/recruiter-strategy.md](references/recruiter-strategy.md)**: Recruiter outreach strategy
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have:
 - Additional cold outreach templates that work well
@@ -172,7 +172,7 @@ Contributions are welcome! If you have:
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -187,18 +187,18 @@ This skill was developed by synthesizing best practices from:
 ## ⚠️ Best Practices
 
 **DO:**
-- ✅ Upload your updated resume for best results
-- ✅ Provide specific information about the recipient
-- ✅ Choose the right format (LinkedIn vs Email)
-- ✅ Customize the generated message if needed
-- ✅ Follow up appropriately (see coffee-chat-guide.md)
+- Upload your updated resume for best results
+- Provide specific information about the recipient
+- Choose the right format (LinkedIn vs Email)
+- Customize the generated message if needed
+- Follow up appropriately (see coffee-chat-guide.md)
 
 **DON'T:**
-- ❌ Use the same generic message for everyone
-- ❌ Apologize for reaching out
-- ❌ Make vague requests ("pick your brain")
-- ❌ Send overly long LinkedIn messages
-- ❌ Forget to personalize with specific details
+- Use the same generic message for everyone
+- Apologize for reaching out
+- Make vague requests ("pick your brain")
+- Send overly long LinkedIn messages
+- Forget to personalize with specific details
 
 ## 📊 Success Metrics
 
