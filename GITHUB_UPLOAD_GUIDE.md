@@ -2,7 +2,7 @@
 
 这个文件将指导你一步步把 cold-outreach-skill 上传到 GitHub。
 
-## 📋 准备工作
+## 准备工作
 
 ### 前置要求
 - [ ] 有 GitHub 账号
@@ -26,7 +26,7 @@ sudo apt-get install git
 
 ---
 
-## 🚀 步骤 1: 在 GitHub 上创建新仓库
+## 步骤 1: 在 GitHub 上创建新仓库
 
 1. 登录 GitHub.com
 2. 点击右上角的 "+" → "New repository"
@@ -39,7 +39,7 @@ sudo apt-get install git
 
 ---
 
-## 📝 步骤 2: 在本地初始化 Git
+## 步骤 2: 在本地初始化 Git
 
 打开终端/命令行，进入 `cold-outreach-skill` 文件夹：
 
@@ -75,7 +75,7 @@ git status
 
 ---
 
-## 💬 步骤 4: 创建第一次提交
+## 步骤 4: 创建第一次提交
 
 ```bash
 git commit -m "Initial commit: Cold Outreach Skill for Claude"
@@ -83,7 +83,7 @@ git commit -m "Initial commit: Cold Outreach Skill for Claude"
 
 ---
 
-## 🔗 步骤 5: 连接到 GitHub 仓库
+## 步骤 5: 连接到 GitHub 仓库
 
 **重要**：把下面的 `YOUR_USERNAME` 替换成你的 GitHub 用户名！
 
@@ -126,7 +126,7 @@ GitHub 不再支持密码登录，你需要创建 Personal Access Token：
 
 ---
 
-## ✅ 步骤 7: 验证上传成功
+## ✓ 步骤 7: 验证上传成功
 
 1. 刷新你的 GitHub 仓库页面：`https://github.com/YOUR_USERNAME/cold-outreach-skill`
 2. 你应该看到所有文件都已经上传
@@ -159,7 +159,7 @@ Settings → Features → 勾选 "Issues"
 
 ---
 
-## 📊 完整的文件结构
+## 完整的文件结构
 
 上传后，你的仓库应该有这个结构：
 
@@ -245,7 +245,7 @@ git reset --hard          # 撤销所有改动（危险！）
 
 ---
 
-## 📱 可选：使用 GitHub Desktop
+## 可选：使用 GitHub Desktop
 
 如果你不习惯命令行，可以使用 GitHub Desktop：
 
@@ -257,7 +257,7 @@ git reset --hard          # 撤销所有改动（危险！）
 
 ---
 
-## 🎉 完成！
+## 完成！
 
 恭喜！你的 cold-outreach-skill 现在已经在 GitHub 上了。
 
@@ -270,7 +270,7 @@ git reset --hard          # 撤销所有改动（危险！）
 
 ---
 
-## 💡 提示
+## 提示
 
 - 每次做改动后要记得 commit 和 push
 - 写清楚的 commit message 方便以后查看

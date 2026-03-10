@@ -302,31 +302,31 @@ Best,
 ## Customization Guidelines
 
 ### Strong Openings
-✅ "I noticed you're working on [specific project/initiative]"
-✅ "Your post about [topic] really resonated with me"
-✅ "I saw we share [specific connection point]"
+✓ "I noticed you're working on [specific project/initiative]"
+✓ "Your post about [topic] really resonated with me"
+✓ "I saw we share [specific connection point]"
 
-❌ "I hope this message finds you well"
-❌ "Sorry to bother you"
-❌ "I know you're busy but..."
+✗ "I hope this message finds you well"
+✗ "Sorry to bother you"
+✗ "I know you're busy but..."
 
 ### Clear Asks
-✅ "Would you have 20 minutes next week?"
-✅ "Are you open to a brief chat?"
-✅ "Could we schedule a quick call?"
+✓ "Would you have 20 minutes next week?"
+✓ "Are you open to a brief chat?"
+✓ "Could we schedule a quick call?"
 
-❌ "Would love to pick your brain"
-❌ "Can I ask you some questions?"
-❌ "Let me know if you'd be willing to help"
+✗ "Would love to pick your brain"
+✗ "Can I ask you some questions?"
+✗ "Let me know if you'd be willing to help"
 
 ### Professional Closings
-✅ "Thanks so much"
-✅ "Looking forward to connecting"
-✅ "I appreciate your time"
+✓ "Thanks so much"
+✓ "Looking forward to connecting"
+✓ "I appreciate your time"
 
-❌ "Thanks in advance"
-❌ "Hope to hear from you"
-❌ Overly formal: "I remain at your disposal"
+✗ "Thanks in advance"
+✗ "Hope to hear from you"
+✗ Overly formal: "I remain at your disposal"
 
 ---
 

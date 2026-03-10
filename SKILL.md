@@ -15,7 +15,7 @@ description: >
 
 Professional networking communication system trained on multiple social media cold outreach email templates and real-world examples. This skill provides AI-powered message generation for LinkedIn and email outreach.
 
-## 🎯 Core Training Sources
+## Core Training Sources
 
 This skill synthesizes best practices from:
 - Multiple LinkedIn message templates optimized for 300-character limit
@@ -24,7 +24,7 @@ This skill synthesizes best practices from:
 - Coffee chat coordination workflows
 - Professional networking frameworks
 
-## 📋 Essential First-Time Setup
+## Essential First-Time Setup
 
 **CRITICAL**: When a user triggers this skill for the first time, Claude MUST:
 
@@ -126,7 +126,7 @@ Using the collected information:
    - LinkedIn: Maximum 300 characters
    - Email: 100-200 words (concise but complete)
 
-## 📝 Message Generation Rules
+## Message Generation Rules
 
 ### For LinkedIn Messages (300 characters max)
 
@@ -237,7 +237,7 @@ Best,
 - **Interest**: "I'm particularly interested in [specific aspect]..."
 - **Ask**: "I'd love to connect and learn from your experience..."
 
-## 📚 Additional Scenarios
+## Additional Scenarios
 
 ### Coffee Chat Coordination
 - Follow the templates in `references/coffee-chat-guide.md`
@@ -253,7 +253,7 @@ Best,
 - Show action taken based on their advice
 - Maintain relationship without asking for favors
 
-## ⚙️ Technical Implementation Notes
+## Technical Implementation Notes
 
 **Resume Parsing**:
 - Extract: Name, current role, education, skills, experience highlights

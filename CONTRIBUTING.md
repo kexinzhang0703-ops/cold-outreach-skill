@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing! This document provides guidelines for contributing to the Cold Outreach Skill for Claude.
 
-## 🤝 How to Contribute
+## How to Contribute
 
 ### Types of Contributions
 
@@ -20,7 +20,7 @@ We welcome:
 - For major changes, open an issue first to discuss
 - Review the [SKILL.md](SKILL.md) to understand the current workflow
 
-## 📝 Contribution Guidelines
+## Contribution Guidelines
 
 ### Adding New Templates
 
@@ -68,7 +68,7 @@ When modifying templates:
 - Update table of contents if adding sections
 - Check for spelling and grammar
 
-## 🔧 Technical Guidelines
+## Technical Guidelines
 
 ### File Structure
 
@@ -97,7 +97,7 @@ cold-outreach-skill/
 - Use **bold** for emphasis, *italics* for definitions
 - Include blank lines between sections
 
-## 🚀 Submission Process
+## Submission Process
 
 ### 1. Fork the Repository
 
@@ -141,7 +141,7 @@ git push origin feature/your-feature-name
 
 Then create a pull request on GitHub.
 
-## ✅ Pull Request Checklist
+## ✓ Pull Request Checklist
 
 Before submitting:
 
@@ -152,7 +152,7 @@ Before submitting:
 - [ ] Commit messages are clear
 - [ ] No unnecessary files are included
 
-## 🎯 Quality Standards
+## Quality Standards
 
 ### For Templates
 
@@ -169,7 +169,7 @@ Before submitting:
 - **Accurate**: No misleading content
 - **Well-formatted**: Proper markdown
 
-## 💡 Ideas for Contributions
+## Ideas for Contributions
 
 Not sure what to contribute? Here are some ideas:
 

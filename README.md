@@ -200,7 +200,7 @@ This skill was developed by synthesizing best practices from:
 - Send overly long LinkedIn messages
 - Forget to personalize with specific details
 
-## 📊 Success Metrics
+## Success Metrics
 
 This skill is optimized for:
 - **Response Rate**: Messages follow proven templates with high response rates
